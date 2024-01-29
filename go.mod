@@ -1,4 +1,4 @@
-module ssov1
+module github.com/infine8/go-sso-proto
 
 go 1.21.6
 
